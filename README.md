@@ -1,4 +1,4 @@
-- 👋# Hi, I'm @Warrenchris 👋
+- 👋 Hi, I'm @Warrenchris 👋
 
 ## 👨‍💻 About Me
 I'm a passionate coder with experience in various programming languages. I enjoy solving complex problems and building innovative solutions. Currently, I'm learning and exploring new technologies to improve my skill set.
