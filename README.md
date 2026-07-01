@@ -53,8 +53,8 @@ I'm a passionate full-stack developer and networks enthusiast based in Nairobi, 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Warrenchris&show_icons=true&theme=tokyonight&count_private=true" alt="Warren's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warrenchris&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Warrenchris&show_icons=true&theme=tokyonight&count_private=true" alt="Warren's GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Warrenchris&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ---
