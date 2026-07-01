@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Warren!
+# Warren Chris
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Focusing%20%F0%9F%8E%AF-blueviolet?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/github/followers/Warrenchris?label=Followers&style=flat-square&color=blue" alt="Followers"/>
 </p>
 
-I'm a passionate full-stack developer and networks enthusiast based in Nairobi, Kenya. I enjoy solving complex structural problems, automating workflows, and building innovative digital solutions. Currently, I am expanding my skills in machine learning algorithms and advanced backend architectures.
+I'm a passionate full-stack developer and networks enthusiast based in Nairobi, Kenya. I enjoy solving complex structural problems, automating workflows and building innovative digital solutions. Currently, I am expanding my skills in machine learning algorithms and advanced backend architectures.
 
 ---
 
@@ -39,18 +39,18 @@ I'm a passionate full-stack developer and networks enthusiast based in Nairobi, 
 
 ---
 
-## 🌱 Current Focus
-* 📐 **Advanced Data Structures & ML:** Exploring model training parameters, system optimizations, and Python automation.
-* 🌐 **Full-Stack Projects:** Creating cloud-native environments using modern JavaScript framework stacks.
+## Current Focus
+*  **Advanced Data Structures & ML:** Exploring model training parameters, system optimizations, and Python automation.
+*  **Full-Stack Projects:** Creating cloud-native environments using modern JavaScript framework stacks.
 
-## 🏆 Professional Certifications
+## Professional Certifications
 * **Huawei Certified ICT Associate** — *Datacom*
 * **Cisco DevNet Associate** — *Infrastructure Automation & Software Development*
 * **IBM Enterprise Design Thinking Practitioner** — *User-Centric Architecture*
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Warrenchris&show_icons=true&theme=tokyonight&count_private=true" alt="Warren's GitHub Stats" height="180px"/>
@@ -59,6 +59,6 @@ I'm a passionate full-stack developer and networks enthusiast based in Nairobi, 
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 * **Email:** [warrenchris745@gmail.com](mailto:warrenchris745@gmail.com)
-* **LinkedIn:** [Your Profile Link Here](https://linkedin.com)
+* **LinkedIn:** [(https://linkedin.com](https://www.linkedin.com/in/warren-chris-723a00263/))
