@@ -59,12 +59,6 @@ I'm a passionate full-stack developer and networks enthusiast based in Nairobi, 
 
 ---
 
-## 📬 Let's Connect!
-* **Email:** [warrenchris745@gmail.com](mailto:warrenchris745@gmail.com)
-* **LinkedIn:** [Your Profile Name](https://linkedin.com/in/your-username)
-
----
-
 ## Let's Connect!
 * **Email:** [warrenchris745@gmail.com](mailto:warrenchris745@gmail.com)
 * **LinkedIn:** [(https://linkedin.com](https://www.linkedin.com/in/warren-chris-723a00263/))
